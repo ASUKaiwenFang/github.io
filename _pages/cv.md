@@ -11,35 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Industrial Engineering, Arizona State University, Tempe, AZ, Aug 2022 - Present
+* Master of Financial Mathematics, Minor in Industrial Engineering, University of Minnesota, Minneapolis, MN, Sep 2020 - May 2022
+* Bachelor of Economics, Southwestern University of Finance and Economics, Chengdu, China, Sep 2015 - Jun 2019
 
-Work experience
+Teaching Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Arizona State University
+  * Instructor, IEE 506: Computing for Data-Driven Optimization, Spring 2026
+  * Teaching Assistant, IEE 506: Computing for Data-Driven Optimization, Spring 2025
+  * Lab Instructor, IEE 376: Operations Research - Deterministic Techniques and Applications, Fall 2024
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**: Python, Julia, MATLAB, C#, R, MS Office
+
+Awards
+======
+* SCAI Doctoral Fellowship, Spring 2023/2024/2025
+* IE Travel Fellowship, Fall 2024
+* Experiential Learning Grant, Fall 2024
+
+Projects
+======
+* **Disjunctive Benders Decomposition** (Jan 2024 - Present)
+  * Advisor: Dr. Geunyeong Byeon
+  * Develop a new Benders decomposition algorithm that can handle disjunctive constraints
+  * Implement the algorithm in Julia and test it on a variety of benchmark problems
+
+* **Differentially Private Federated Learning with James-Stein Estimator** (Jun 2024 - Present)
+  * Advisor: Dr. Minseok Ryu, Dr. Geunyeong Byeon
+  * Develop a new differentially private federated learning algorithm
+  * Implement the algorithm in Python and test it on a variety of benchmark problems
 
 Publications
 ======
@@ -58,7 +61,9 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Presentations
 ======
-* Currently signed in to 43 different slack teams
+* **K. Fang** and G. Byeon. Benders Lift-and-Project Cuts. *INFORMS Annual Meeting, Seattle, Washington,* October 2024.
+* **K. Fang** and G. Byeon. Strengthening Benders Cuts via Disjunction. *The 25th International Symposium on Mathematical Programming (ISMP), Montréal, Canada,* July 2024.
+* **K. Fang** and G. Byeon. Accelerating Benders Decomposition via Exploration. *INFORMS Annual Meeting, Phoenix, Arizona,* October 2023.

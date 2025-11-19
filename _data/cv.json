@@ -33,29 +33,29 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Arizona State University",
+      "area": "Ph.D. in Industrial Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2022-08",
+      "endDate": "Present",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of Minnesota",
+      "area": "Master of Financial Mathematics, Minor in Industrial Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2020-09",
+      "endDate": "2022-05",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Southwestern University of Finance and Economics",
+      "area": "Bachelor of Economics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2015-09",
+      "endDate": "2019-06",
       "gpa": null,
       "courses": []
     }
